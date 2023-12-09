@@ -34,8 +34,8 @@ install_requires = [
 ]
 
 setup(
-    name='chalice',
-    version='1.29.0',
+    name='chalice-python311',
+    version='1.30.0',
     description="Microframework",
     long_description=README,
     author="James Saryerwinnie",
@@ -75,5 +75,6 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
     ],
 )

@@ -2,6 +2,11 @@
 CHANGELOG
 =========
 
+1.30.0
+======
+
+* feature:Python:Add support for Python 3.11
+
 1.29.0
 ======
 

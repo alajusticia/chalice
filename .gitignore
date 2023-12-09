@@ -3,9 +3,11 @@ sample/
 venv
 docs/build/
 .idea
+build
+dist
 __pycache__/
 .coverage
-chalice.egg-info/
+chalice_python311.egg-info/
 .hypothesis/
 .pytest_cache/
 .mypy_cache/
